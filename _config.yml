@@ -91,8 +91,8 @@ contacts:
   # - title: slack
   #   url: 'https://example.com/@jekyllrb'
   - title: email
-    url: mailto:rahulbhadani@email.arizona.edu
-    email: rahulbhadani@email.arizona.edu
+    url: mailto:rahul.bhadani@vanderbilt.edu
+    email: rahul.bhadani@vanderbilt.edu
 
 # Build settings
 theme: minima
