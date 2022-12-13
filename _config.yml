@@ -30,7 +30,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-background:
+background: |
 
   Smart cities are emerging as a priority for Cyber-Physical Systems (CPS) research and development across the world. Artificial Intelligence and Machine Learning algorithms have played a large part in automating and advancing city operations and aiding the development of CPS in cities. Increasingly, data-driven modeling and intelligent decision-making under uncertainty are forming the basis for advancing transportation, safety, connectivity, and health services. For example, advanced traffic solutions, improved public transportation systems, smart emergency response, energy modeling, and autonomous driving are some of the applications that have benefited from data-driven approaches to principled decision-making. Data is extremely valuable in determining human behavior both at the scale of the entire population as well as at the level of individual persons navigating the infrastructure landscape. 
   
