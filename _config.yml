@@ -38,21 +38,17 @@ background: |
   <p>With the advent of Internet of Things (IoT), sensor data is being generated at a pace and volume that is difficult to process and use for inference. With several data modalities in the picture, new opportunities and challenges arise in terms of data collection, validation, analysis, and inference. For example, these additional data enable the development of novel models of traffic behavior at different geographical locations and time points, as well as what factors are consequential human driving behavior. At the same time, there is a growing need for automated applications to be fair, secure, and resilient. Participants in the workshop will exchange ideas on these and allied topics, including data science and open-source data sets for smart cities, decision making for smart cities, design of intelligent systems in smart cities, and challenges in deployment, equity, and fairness in smart cities, as well as security and privacy in AI for cities. </p><br/>
   
   
-  <p>The Workshop on Data-Driven and Intelligent Cyber-Physical Systems (DI-CPS) was started in 2021 in conjunction with CPS-IoT Week. After a successful workshop this year, we seek to continue the workshop at CPS-week next year, albeit with a specific focus on intelligent CPS for smart cities. The 2020 edition of DI-CPS received 10 submissions and had a total attendance of approximately 30. This year, we are also introducing a best paper award based on reviewer scores. Also, in addition to having experienced faculty members as part of the PC, we are nominating senior graduate students to the PC to provide them with experience in participating in program committees of academic events. Papers assigned to graduate students will have an extra reviewer chosen from the senior members of the PC. The workshop invites researchers and practitioners from academia, industry, and government to submit original research papers, papers describing lessons learned, concept papers, or descriptions of software tools on the following categories:
+  <p>The Workshop on Data-Driven and Intelligent Cyber-Physical Systems (DI-CPS) was started in 2021 in conjunction with CPS-IoT Week. After a successful workshop this year, we seek to continue the workshop at CPS-week next year, albeit with a specific focus on intelligent CPS for smart cities. The 2020 edition of DI-CPS received 10 submissions and had a total attendance of approximately 30. This year, we are also introducing a best paper award based on reviewer scores. Also, in addition to having experienced faculty members as part of the PC, we are nominating senior graduate students to the PC to provide them with experience in participating in program committees of academic events. Papers assigned to graduate students will have an extra reviewer chosen from the senior members of the PC. The workshop invites researchers and practitioners from academia, industry, and government to submit original research papers, papers describing lessons learned, concept papers, or descriptions of software tools on the following categories:</p><br/>
 
-  <ul>
-  <li>Approaches to modeling complex decision-making tasks in smart cities and tackling uncertainty.</li>
-  <li>Challenges faced and lessons learned in deploying intelligent systems in smart cities in practice.</li>
-  <li>Principled heuristics to design scalable decision-making in city-scale CPS.</li>
-  <li>Anomaly detection in smart and connected communities.</li>
-  <li>Trustworthy analytics and privacy control.</li>
-  <li>Transportation CPS data with human-in-the-loop.</li>
-  <li>Demos and tutorials on software tools, simulations, and experimental results concerning CPS with a human-in-the-loop in the context of smart cities.</li>
-  <li>Software tools for integrative analysis of data-driven CPS from multiple modalities.</li>
-  </ul>
+  <p>1. Approaches to modeling complex decision-making tasks in smart cities and tackling uncertainty.</p>
+  <p>2. Challenges faced and lessons learned in deploying intelligent systems in smart cities in practice.</p>
+  <p>3. Principled heuristics to design scalable decision-making in city-scale CPS.</p>
+  <p>4. Anomaly detection in smart and connected communities.</p>
+  <p>5. Trustworthy analytics and privacy control.</p>
+  <p>6. Transportation CPS data with human-in-the-loop.</p>
+  <p>7. Demos and tutorials on software tools, simulations, and experimental results concerning CPS with a human-in-the-loop in the context of smart cities.</p>
+  <p>8. Software tools for integrative analysis of data-driven CPS from multiple modalities.</p>
   
-  </p><br/>
-
 contacts:
   # - title: twitter 
   #  url: 'https://twitter.com/whyherro1'
@@ -78,6 +74,7 @@ contacts:
   #   url: 'https://example.com/@jekyllrb'
   - title: email
     url: mailto:rahulbhadani@email.arizona.edu
+    email: rahulbhadani@email.arizona.edu
 
 # Build settings
 theme: minima
