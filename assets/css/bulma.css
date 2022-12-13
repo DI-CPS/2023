@@ -11773,7 +11773,6 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
 .hero-head{
   flex-grow: 0;
   flex-shrink: 0;
-  position: fixed;
   z-index: 1000;
 }
 .hero-foot {
