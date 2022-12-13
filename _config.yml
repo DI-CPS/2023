@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The 2nd Workshop on Data-Driven and Intelligent Cyber-Physical Systems for Smart Cities (DI-CPS)
+title: The 3rd Workshop on Data-Driven and Intelligent Cyber-Physical Systems for Smart Cities (DI-CPS)
 email: rahulbhadani@email.arizona.edu
 author:
   name: Rahul Bhadani
@@ -32,10 +32,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 contacts:
-  - title: twitter 
-    url: 'https://twitter.com/whyherro1'
-  - title: github
-    url:  'https://github.com/nativvstudios'
+  # - title: twitter 
+  #  url: 'https://twitter.com/whyherro1'
+  # - title: github
+  #  url:  'https://github.com/nativvstudios'
   # - title: facebook
   #   url: 'https://example.com/@jekyllrb'
   # - title: instagram
