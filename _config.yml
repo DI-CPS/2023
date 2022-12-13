@@ -20,7 +20,7 @@
 
 shorttitle: DI-CPS 2023
 title: The 3rd Workshop on Data-Driven and Intelligent Cyber-Physical Systems for Smart Cities (DI-CPS)
-email: rahulbhadani@email.arizona.edu
+email: rahul.bhadani@vanderbilt.edu
 author:
   name: Rahul Bhadani
   about:
@@ -51,6 +51,21 @@ background: |
   <p>6. Transportation CPS data with human-in-the-loop.</p>
   <p>7. Demos and tutorials on software tools, simulations, and experimental results concerning CPS with a human-in-the-loop in the context of smart cities.</p>
   <p>8. Software tools for integrative analysis of data-driven CPS from multiple modalities.</p>
+  
+submission_guidelines: |
+  <p>We welcome long papers (8 pages), short papers (4 pages), and concept papers (2 pages) including appendices and references. Submissions must use the IEEE conference format. Only PDF or latex-zipped files will be accepted. There is no requirement to anonymize the submissions; Authors may choose to submit anonymously or not. Accepted papers will be published with IEEE and appear on IEEE Xplore; however, authors can choose to opt out of formal proceedings. We welcome prior work published in conferences or journals (authors will have to opt out of publication in case the submitted work does not add to the previously published version, but can still present their work at the workshop). Each accepted paper must be presented by a registered author. Submissions not meeting these guidelines risk immediate rejection. For questions about these policies, please contact the chairs.</p>
+
+
+important_dates: |
+  <p>Paper Submission Deadline: February 1, 2023 (23:59 Anywhere on Earth time)</p>
+  <p>Notification of Acceptance/Rejection: February 28, 2023</p>
+  <p>Camera-Ready Papers Due: (hard deadline): March 7, 2023</p>
+
+program_chairs: |
+  <p>Rahul Bhadani (Vanderbilt University) rahul.bhadani@vanderbilt.edu</p>
+  <p>Aron Laszka (Pennsylvania State University) laszka@psu.edu</p>
+  <p>Ayan Mukhopadhyay (Vanderbilt University) ayan.mukhopadhyay@vanderbilt.edu</p>
+  <p>Raphael Stern (University of Minnesota) rstern@umn.edu</p>
   
 contacts:
   # - title: twitter 
