@@ -11770,7 +11770,11 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
   }
 }
 
-.hero-head,
+.hero-head{
+  flex-grow: 0;
+  flex-shrink: 0;
+  position: fixed;
+}
 .hero-foot {
   flex-grow: 0;
   flex-shrink: 0;
