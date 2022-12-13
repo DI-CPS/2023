@@ -23,13 +23,7 @@
                 <p class="subtitle">
                   {{ site.description }}
                 </p>
-
-                <hr>
-
-                <p class="body">
-                  {{ site.background }}
-                </p>
-
+                
                 <div class="socials">
                   {% for i in site.contacts %}
                   <a href="{{i.url}}" target="_blank">
@@ -49,6 +43,14 @@
                   {%endfor%}
             
                 </div>
+                
+                <hr>
+
+                <p class="body">
+                  {{ site.background }}
+                </p>
+
+                
               </div>
         </div>
     </section>

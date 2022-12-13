@@ -18,6 +18,9 @@ body {
         strong {
             color: white;
         }
+
+        text-align: justify;  // Add this line to justify text alignment
+        
     }
 
 }
@@ -68,6 +71,7 @@ body {
       }
 
     .subtitle {
+        font-size: 20px;  // Add this line to set the font size to 20 pixels
     }
     .avatar {
         margin: 0 auto 1rem auto;
