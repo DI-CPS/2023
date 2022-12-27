@@ -26,7 +26,11 @@ body {
 
 }
 
-
+.viva-magenta-link {
+    color: #BB2649; /* viva-magenta color */
+    text-decoration: underline;
+    font-weight: bold;
+  }
 
 .hero.is-dark {
     background-color: $background-dark-gray;
