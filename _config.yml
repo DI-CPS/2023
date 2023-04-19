@@ -46,12 +46,12 @@ schedule: |
   .tg .tg-l38m{background-color:#FFF;border-color:inherit;text-align:right;vertical-align:top}
   .tg .tg-rp7u{background-color:#4DD0E1;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
   .tg .tg-jxgv{background-color:#FFF;border-color:inherit;text-align:left;vertical-align:top}
-  .tg .tg-0xrc{background-color:#E0F7FA;border-color:inherit;text-align:left;vertical-align:top}
+  .tg .tg-0xrc{background-color:#01092b;border-color:inherit;text-align:left;vertical-align:top}
   .tg .tg-rvuo{border-color:inherit;color:#434343;font-weight:bold;text-align:center;vertical-align:top}
   .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
   .tg .tg-z115{background-color:#cbcefb;border-color:inherit;text-align:right;vertical-align:top}
   .tg .tg-61xu{background-color:#cbcefb;border-color:inherit;text-align:left;vertical-align:top}
-  .tg .tg-vppv{background-color:#E0F7FA;border-color:inherit;text-align:right;vertical-align:top}
+  .tg .tg-vppv{background-color:#01092b;border-color:inherit;text-align:right;vertical-align:top}
   </style>
   <table class="tg">
   <thead>
@@ -82,11 +82,11 @@ schedule: |
       <td class="tg-61xu"></td>
     </tr>
     <tr>
-      <td class="tg-vppv"><span style="background-color:#E0F7FA">1</span></td>
-      <td class="tg-0xrc"><span style="background-color:#E0F7FA">1:30 pm&nbsp;&nbsp;– 1:45 pm</span></td>
-      <td class="tg-0xrc"><span style="background-color:#E0F7FA">15 minutes</span></td>
-      <td class="tg-0xrc"><span style="background-color:#E0F7FA">Opening Remark</span></td>
-      <td class="tg-0xrc"><span style="background-color:#E0F7FA">DI-CPS Chairs</span></td>
+      <td class="tg-vppv"><span style="background-color:#01092b">1</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">1:30 pm&nbsp;&nbsp;– 1:45 pm</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">15 minutes</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">Opening Remark</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">DI-CPS Chairs</span></td>
     </tr>
     <tr>
       <td class="tg-l38m"><span style="background-color:#FFF">2</span></td>
@@ -96,11 +96,11 @@ schedule: |
       <td class="tg-jxgv"><span style="background-color:#FFF">TBD</span></td>
     </tr>
     <tr>
-      <td class="tg-vppv"><span style="background-color:#E0F7FA">3</span></td>
-      <td class="tg-0xrc"><span style="background-color:#E0F7FA">2:40 pm&nbsp;&nbsp;– 3:00 pm</span></td>
-      <td class="tg-0xrc"><span style="background-color:#E0F7FA">20 minutes</span></td>
-      <td class="tg-0xrc"><span style="background-color:#E0F7FA">Physics-informed Machine Learning </span><br><span style="background-color:#E0F7FA">Model Generalization in AIoT: Opportunites and Challenges	</span></td>
-      <td class="tg-0xrc"><span style="background-color:#E0F7FA">Wenjie Luo and Rui Tan</span></td>
+      <td class="tg-vppv"><span style="background-color:#01092b">3</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">2:40 pm&nbsp;&nbsp;– 3:00 pm</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">20 minutes</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">Physics-informed Machine Learning </span><br><span style="background-color:#01092b">Model Generalization in AIoT: Opportunites and Challenges	</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">Wenjie Luo and Rui Tan</span></td>
     </tr>
     <tr>
       <td class="tg-z115">4</td>
@@ -110,11 +110,11 @@ schedule: |
       <td class="tg-61xu"></td>
     </tr>
     <tr>
-      <td class="tg-vppv"><span style="background-color:#E0F7FA">5</span></td>
-      <td class="tg-0xrc"><span style="background-color:#E0F7FA">3:20 pm&nbsp;&nbsp;– 3:40 pm</span></td>
-      <td class="tg-0xrc"><span style="background-color:#E0F7FA">20 minutes</span></td>
-      <td class="tg-0xrc"><span style="background-color:#E0F7FA">Dynamic Simplex: Balancing Safety and </span><br><span style="background-color:#E0F7FA">Performance in Autonomous Cyber Physical Systems	</span></td>
-      <td class="tg-0xrc"><span style="background-color:#E0F7FA">Baiting Luo, Shreyas Ramakrishna, Ava Pettet, </span><br><span style="background-color:#E0F7FA">Christopher Kuhn, Gabor Karsai and Ayan Mukhopadhyay	</span></td>
+      <td class="tg-vppv"><span style="background-color:#01092b">5</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">3:20 pm&nbsp;&nbsp;– 3:40 pm</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">20 minutes</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">Dynamic Simplex: Balancing Safety and </span><br><span style="background-color:#01092b">Performance in Autonomous Cyber Physical Systems	</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">Baiting Luo, Shreyas Ramakrishna, Ava Pettet, </span><br><span style="background-color:#01092b">Christopher Kuhn, Gabor Karsai and Ayan Mukhopadhyay	</span></td>
     </tr>
     <tr>
       <td class="tg-l38m"><span style="background-color:#FFF">6</span></td>
@@ -124,11 +124,11 @@ schedule: |
       <td class="tg-jxgv"><span style="background-color:#FFF">Tianyi Li, Xiatian Iogansen and Raphael Stern</span></td>
     </tr>
     <tr>
-      <td class="tg-vppv"><span style="background-color:#E0F7FA">7</span></td>
-      <td class="tg-0xrc"><span style="background-color:#E0F7FA">4:00 pm&nbsp;&nbsp;– 4:20 pm</span></td>
-      <td class="tg-0xrc"><span style="background-color:#E0F7FA">20 minutes</span></td>
-      <td class="tg-0xrc"><span style="background-color:#E0F7FA">Intelligent Distributed Charging Control for Large </span><br><span style="background-color:#E0F7FA">Scale Electric Vehicles: A Multi-Cluster Mean Field Game Approach</span></td>
-      <td class="tg-0xrc"><span style="background-color:#E0F7FA">Shawon Dey and Hao Xu</span></td>
+      <td class="tg-vppv"><span style="background-color:#01092b">7</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">4:00 pm&nbsp;&nbsp;– 4:20 pm</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">20 minutes</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">Intelligent Distributed Charging Control for Large </span><br><span style="background-color:#01092b">Scale Electric Vehicles: A Multi-Cluster Mean Field Game Approach</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">Shawon Dey and Hao Xu</span></td>
     </tr>
     <tr>
       <td class="tg-61xu"></td>
@@ -138,11 +138,11 @@ schedule: |
       <td class="tg-61xu"></td>
     </tr>
     <tr>
-      <td class="tg-vppv"><span style="background-color:#E0F7FA">8</span></td>
-      <td class="tg-0xrc"><span style="background-color:#E0F7FA">4:35 pm&nbsp;&nbsp;– 4:55 pm</span></td>
-      <td class="tg-0xrc"><span style="background-color:#E0F7FA">20 minutes</span></td>
-      <td class="tg-0xrc"><span style="background-color:#E0F7FA">Visualization of Large-Scale Trajectory Datasets</span></td>
-      <td class="tg-0xrc"><span style="background-color:#E0F7FA">Gergely Zachar</span></td>
+      <td class="tg-vppv"><span style="background-color:#01092b">8</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">4:35 pm&nbsp;&nbsp;– 4:55 pm</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">20 minutes</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">Visualization of Large-Scale Trajectory Datasets</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">Gergely Zachar</span></td>
     </tr>
     <tr>
       <td class="tg-l38m"><span style="background-color:#FFF">9</span></td>
@@ -152,11 +152,11 @@ schedule: |
       <td class="tg-jxgv"><span style="background-color:#FFF">Alex Richardson, Matthew Nice, Matthew Bunting, </span><br><span style="background-color:#FFF">Jonathan Lee, Rahul Bhadani, Dan Work and Jonathan Sprinkle</span></td>
     </tr>
     <tr>
-      <td class="tg-vppv"><span style="background-color:#E0F7FA">10</span></td>
-      <td class="tg-0xrc"><span style="background-color:#E0F7FA">5:15 pm&nbsp;&nbsp;–&nbsp;&nbsp;5:35 pm</span></td>
-      <td class="tg-0xrc"><span style="background-color:#E0F7FA">20 minutes</span></td>
-      <td class="tg-0xrc"><span style="background-color:#E0F7FA">Approaches for Synthesis and Deployment of </span><br><span style="background-color:#E0F7FA">Controller Models on Automated Vehicles for Car-following in Mixed Autonomy</span></td>
-      <td class="tg-0xrc"><span style="background-color:#E0F7FA">Rahul Bhadani, Matt Bunting, Matthew Nice, Fangyu Wu, </span><br><span style="background-color:#E0F7FA">Amaury Hayat, Jonathan Lee, Alexandre Bayen, Benedetto Piccoli, </span><br><span style="background-color:#E0F7FA">Benjamin Seibold, Dan Work and Jonathan Sprinkle</span></td>
+      <td class="tg-vppv"><span style="background-color:#01092b">10</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">5:15 pm&nbsp;&nbsp;–&nbsp;&nbsp;5:35 pm</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">20 minutes</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">Approaches for Synthesis and Deployment of </span><br><span style="background-color:#01092b">Controller Models on Automated Vehicles for Car-following in Mixed Autonomy</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">Rahul Bhadani, Matt Bunting, Matthew Nice, Fangyu Wu, </span><br><span style="background-color:#01092b">Amaury Hayat, Jonathan Lee, Alexandre Bayen, Benedetto Piccoli, </span><br><span style="background-color:#01092b">Benjamin Seibold, Dan Work and Jonathan Sprinkle</span></td>
     </tr>
     <tr>
       <td class="tg-l38m"><span style="background-color:#FFF">11</span></td>
