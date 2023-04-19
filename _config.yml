@@ -43,9 +43,9 @@ schedule: |
     overflow:hidden;padding:10px 5px;word-break:normal;}
   .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
     font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-  .tg .tg-l38m{background-color:#FFF;border-color:inherit;text-align:right;vertical-align:top}
+  .tg .tg-l38m{background-color:#4f0000;border-color:inherit;text-align:right;vertical-align:top}
   .tg .tg-rp7u{background-color:#4DD0E1;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-  .tg .tg-jxgv{background-color:#FFF;border-color:inherit;text-align:left;vertical-align:top}
+  .tg .tg-jxgv{background-color:#4f0000;border-color:inherit;text-align:left;vertical-align:top}
   .tg .tg-0xrc{background-color:#01092b;border-color:inherit;text-align:left;vertical-align:top}
   .tg .tg-rvuo{border-color:inherit;color:#434343;font-weight:bold;text-align:center;vertical-align:top}
   .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
@@ -89,11 +89,11 @@ schedule: |
       <td class="tg-0xrc"><span style="background-color:#01092b">DI-CPS Chairs</span></td>
     </tr>
     <tr>
-      <td class="tg-l38m"><span style="background-color:#FFF">2</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">1:45 pm&nbsp;&nbsp;–&nbsp;&nbsp;2:30 pm</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">45 minutes</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">Keynote</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">TBD</span></td>
+      <td class="tg-l38m"><span style="background-color:#4f0000">2</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">1:45 pm&nbsp;&nbsp;–&nbsp;&nbsp;2:30 pm</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">45 minutes</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">Keynote</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">TBD</span></td>
     </tr>
     <tr>
       <td class="tg-vppv"><span style="background-color:#01092b">3</span></td>
@@ -117,11 +117,11 @@ schedule: |
       <td class="tg-0xrc"><span style="background-color:#01092b">Baiting Luo, Shreyas Ramakrishna, Ava Pettet, </span><br><span style="background-color:#01092b">Christopher Kuhn, Gabor Karsai and Ayan Mukhopadhyay	</span></td>
     </tr>
     <tr>
-      <td class="tg-l38m"><span style="background-color:#FFF">6</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">3:40 pm – 4:00 pm</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">20 minutes</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">Assessing the Impact of Disruptive Events </span><br><span style="background-color:#FFF">on Urban Mobility: A Case Study of Chicago Taxis during COVID-19	</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">Tianyi Li, Xiatian Iogansen and Raphael Stern</span></td>
+      <td class="tg-l38m"><span style="background-color:#4f0000">6</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">3:40 pm – 4:00 pm</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">20 minutes</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">Assessing the Impact of Disruptive Events </span><br><span style="background-color:#4f0000">on Urban Mobility: A Case Study of Chicago Taxis during COVID-19	</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">Tianyi Li, Xiatian Iogansen and Raphael Stern</span></td>
     </tr>
     <tr>
       <td class="tg-vppv"><span style="background-color:#01092b">7</span></td>
@@ -145,11 +145,11 @@ schedule: |
       <td class="tg-0xrc"><span style="background-color:#01092b">Gergely Zachar</span></td>
     </tr>
     <tr>
-      <td class="tg-l38m"><span style="background-color:#FFF">9</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">4:55 pm&nbsp;&nbsp;–&nbsp;&nbsp;5:15 pm</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">20 minutes</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">Analysis of a Runtime Data Sharing </span><br><span style="background-color:#FFF">Architecture over LTE for a Heterogeneous CAV Fleet	</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">Alex Richardson, Matthew Nice, Matthew Bunting, </span><br><span style="background-color:#FFF">Jonathan Lee, Rahul Bhadani, Dan Work and Jonathan Sprinkle</span></td>
+      <td class="tg-l38m"><span style="background-color:#4f0000">9</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">4:55 pm&nbsp;&nbsp;–&nbsp;&nbsp;5:15 pm</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">20 minutes</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">Analysis of a Runtime Data Sharing </span><br><span style="background-color:#4f0000">Architecture over LTE for a Heterogeneous CAV Fleet	</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">Alex Richardson, Matthew Nice, Matthew Bunting, </span><br><span style="background-color:#4f0000">Jonathan Lee, Rahul Bhadani, Dan Work and Jonathan Sprinkle</span></td>
     </tr>
     <tr>
       <td class="tg-vppv"><span style="background-color:#01092b">10</span></td>
@@ -159,11 +159,11 @@ schedule: |
       <td class="tg-0xrc"><span style="background-color:#01092b">Rahul Bhadani, Matt Bunting, Matthew Nice, Fangyu Wu, </span><br><span style="background-color:#01092b">Amaury Hayat, Jonathan Lee, Alexandre Bayen, Benedetto Piccoli, </span><br><span style="background-color:#01092b">Benjamin Seibold, Dan Work and Jonathan Sprinkle</span></td>
     </tr>
     <tr>
-      <td class="tg-l38m"><span style="background-color:#FFF">11</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">5:35 pm&nbsp;&nbsp;–&nbsp;&nbsp;5:40 pm</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">5 minutes</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">Concluding Remarks</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">DI-CPS Chairs</span></td>
+      <td class="tg-l38m"><span style="background-color:#4f0000">11</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">5:35 pm&nbsp;&nbsp;–&nbsp;&nbsp;5:40 pm</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">5 minutes</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">Concluding Remarks</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">DI-CPS Chairs</span></td>
     </tr>
   </tbody>
   </table>
