@@ -37,41 +37,136 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 schedule: |
 
-\begin{table}[]
-\begin{tabular}{|rllll|}
-\hline
-\multicolumn{5}{|c|}{{\color[HTML]{434343} \textbf{DI CPS 2023 Schedule}}}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       \\ \hline
-\multicolumn{1}{|l|}{}                                          & \multicolumn{1}{l|}{}                                            & \multicolumn{1}{l|}{}                                               & \multicolumn{1}{l|}{}                                                                                                                                                                                          &                                                                                                                                                                                                                      \\ \hline
-\rowcolor[HTML]{4DD0E1} 
-\multicolumn{1}{|l|}{\cellcolor[HTML]{4DD0E1}\textbf{Sequence}} & \multicolumn{1}{l|}{\cellcolor[HTML]{4DD0E1}\textbf{Time}}       & \multicolumn{1}{l|}{\cellcolor[HTML]{4DD0E1}\textbf{Time Duration}} & \multicolumn{1}{l|}{\cellcolor[HTML]{4DD0E1}\textbf{Title}}                                                                                                                                                    & \textbf{Authors}                                                                                                                                                                                                     \\ \hline
-\rowcolor[HTML]{CBCEFB} 
-\multicolumn{1}{|r|}{\cellcolor[HTML]{CBCEFB}0}                 & \multicolumn{1}{l|}{\cellcolor[HTML]{CBCEFB}12 pm – 1:30 pm}     & \multicolumn{1}{l|}{\cellcolor[HTML]{CBCEFB}30 minutes}             & \multicolumn{1}{l|}{\cellcolor[HTML]{CBCEFB}Lunch Break}                                                                                                                                                       &                                                                                                                                                                                                                      \\ \hline
-\rowcolor[HTML]{E0F7FA} 
-\multicolumn{1}{|r|}{\cellcolor[HTML]{E0F7FA}1}                 & \multicolumn{1}{l|}{\cellcolor[HTML]{E0F7FA}1:30 pm  – 1:45 pm}  & \multicolumn{1}{l|}{\cellcolor[HTML]{E0F7FA}15 minutes}             & \multicolumn{1}{l|}{\cellcolor[HTML]{E0F7FA}Opening Remark}                                                                                                                                                    & DI-CPS Chairs                                                                                                                                                                                                        \\ \hline
-\rowcolor[HTML]{FFFFFF} 
-\multicolumn{1}{|r|}{\cellcolor[HTML]{FFFFFF}2}                 & \multicolumn{1}{l|}{\cellcolor[HTML]{FFFFFF}1:45 pm  –  2:30 pm} & \multicolumn{1}{l|}{\cellcolor[HTML]{FFFFFF}45 minutes}             & \multicolumn{1}{l|}{\cellcolor[HTML]{FFFFFF}Keynote}                                                                                                                                                           & TBD                                                                                                                                                                                                                  \\ \hline
-\rowcolor[HTML]{E0F7FA} 
-\multicolumn{1}{|r|}{\cellcolor[HTML]{E0F7FA}3}                 & \multicolumn{1}{l|}{\cellcolor[HTML]{E0F7FA}2:40 pm  – 3:00 pm}  & \multicolumn{1}{l|}{\cellcolor[HTML]{E0F7FA}20 minutes}             & \multicolumn{1}{l|}{\cellcolor[HTML]{E0F7FA}\begin{tabular}[c]{@{}l@{}}Physics-informed Machine Learning \\ Model Generalization in AIoT: Opportunites and Challenges\end{tabular}}                            & Wenjie Luo and Rui Tan                                                                                                                                                                                               \\ \hline
-\rowcolor[HTML]{CBCEFB} 
-\multicolumn{1}{|r|}{\cellcolor[HTML]{CBCEFB}4}                 & \multicolumn{1}{l|}{\cellcolor[HTML]{CBCEFB}3:00 pm – 3:20pm}    & \multicolumn{1}{l|}{\cellcolor[HTML]{CBCEFB}20 minutes}             & \multicolumn{1}{l|}{\cellcolor[HTML]{CBCEFB}Break}                                                                                                                                                             &                                                                                                                                                                                                                      \\ \hline
-\rowcolor[HTML]{E0F7FA} 
-\multicolumn{1}{|r|}{\cellcolor[HTML]{E0F7FA}5}                 & \multicolumn{1}{l|}{\cellcolor[HTML]{E0F7FA}3:20 pm  – 3:40 pm}  & \multicolumn{1}{l|}{\cellcolor[HTML]{E0F7FA}20 minutes}             & \multicolumn{1}{l|}{\cellcolor[HTML]{E0F7FA}\begin{tabular}[c]{@{}l@{}}Dynamic Simplex: Balancing Safety and \\ Performance in Autonomous Cyber Physical Systems\end{tabular}}                                 & \begin{tabular}[c]{@{}l@{}}Baiting Luo, Shreyas Ramakrishna, Ava Pettet, \\ Christopher Kuhn, Gabor Karsai and Ayan Mukhopadhyay\end{tabular}                                                                        \\ \hline
-\rowcolor[HTML]{FFFFFF} 
-\multicolumn{1}{|r|}{\cellcolor[HTML]{FFFFFF}6}                 & \multicolumn{1}{l|}{\cellcolor[HTML]{FFFFFF}3:40 pm – 4:00 pm}   & \multicolumn{1}{l|}{\cellcolor[HTML]{FFFFFF}20 minutes}             & \multicolumn{1}{l|}{\cellcolor[HTML]{FFFFFF}\begin{tabular}[c]{@{}l@{}}Assessing the Impact of Disruptive Events \\ on Urban Mobility: A Case Study of Chicago Taxis during COVID-19\end{tabular}}             & Tianyi Li, Xiatian Iogansen and Raphael Stern                                                                                                                                                                        \\ \hline
-\rowcolor[HTML]{E0F7FA} 
-\multicolumn{1}{|r|}{\cellcolor[HTML]{E0F7FA}7}                 & \multicolumn{1}{l|}{\cellcolor[HTML]{E0F7FA}4:00 pm  – 4:20 pm}  & \multicolumn{1}{l|}{\cellcolor[HTML]{E0F7FA}20 minutes}             & \multicolumn{1}{l|}{\cellcolor[HTML]{E0F7FA}\begin{tabular}[c]{@{}l@{}}Intelligent Distributed Charging Control for Large \\ Scale Electric Vehicles: A Multi-Cluster Mean Field Game Approach\end{tabular}}   & Shawon Dey and Hao Xu                                                                                                                                                                                                \\ \hline
-\rowcolor[HTML]{CBCEFB} 
-\multicolumn{1}{|l|}{\cellcolor[HTML]{CBCEFB}}                  & \multicolumn{1}{l|}{\cellcolor[HTML]{CBCEFB}4:20 pm - 4: 35 pm}  & \multicolumn{1}{l|}{\cellcolor[HTML]{CBCEFB}15 minutes}             & \multicolumn{1}{l|}{\cellcolor[HTML]{CBCEFB}Break}                                                                                                                                                             &                                                                                                                                                                                                                      \\ \hline
-\rowcolor[HTML]{E0F7FA} 
-\multicolumn{1}{|r|}{\cellcolor[HTML]{E0F7FA}8}                 & \multicolumn{1}{l|}{\cellcolor[HTML]{E0F7FA}4:35 pm  – 4:55 pm}  & \multicolumn{1}{l|}{\cellcolor[HTML]{E0F7FA}20 minutes}             & \multicolumn{1}{l|}{\cellcolor[HTML]{E0F7FA}Visualization of Large-Scale Trajectory Datasets}                                                                                                                  & Gergely Zachar                                                                                                                                                                                                       \\ \hline
-\rowcolor[HTML]{FFFFFF} 
-\multicolumn{1}{|r|}{\cellcolor[HTML]{FFFFFF}9}                 & \multicolumn{1}{l|}{\cellcolor[HTML]{FFFFFF}4:55 pm  –  5:15 pm} & \multicolumn{1}{l|}{\cellcolor[HTML]{FFFFFF}20 minutes}             & \multicolumn{1}{l|}{\cellcolor[HTML]{FFFFFF}\begin{tabular}[c]{@{}l@{}}Analysis of a Runtime Data Sharing \\ Architecture over LTE for a Heterogeneous CAV Fleet\end{tabular}}                                 & \begin{tabular}[c]{@{}l@{}}Alex Richardson, Matthew Nice, Matthew Bunting, \\ Jonathan Lee, Rahul Bhadani, Dan Work and Jonathan Sprinkle\end{tabular}                                                               \\ \hline
-\rowcolor[HTML]{E0F7FA} 
-\multicolumn{1}{|r|}{\cellcolor[HTML]{E0F7FA}10}                & \multicolumn{1}{l|}{\cellcolor[HTML]{E0F7FA}5:15 pm  –  5:35 pm} & \multicolumn{1}{l|}{\cellcolor[HTML]{E0F7FA}20 minutes}             & \multicolumn{1}{l|}{\cellcolor[HTML]{E0F7FA}\begin{tabular}[c]{@{}l@{}}Approaches for Synthesis and Deployment of \\ Controller Models on Automated Vehicles for Car-following in Mixed Autonomy\end{tabular}} & \begin{tabular}[c]{@{}l@{}}Rahul Bhadani, Matt Bunting, Matthew Nice, Fangyu Wu, \\ Amaury Hayat, Jonathan Lee, Alexandre Bayen, Benedetto Piccoli, \\ Benjamin Seibold, Dan Work and Jonathan Sprinkle\end{tabular} \\ \hline
-\rowcolor[HTML]{FFFFFF} 
-\multicolumn{1}{|r|}{\cellcolor[HTML]{FFFFFF}11}                & \multicolumn{1}{l|}{\cellcolor[HTML]{FFFFFF}5:35 pm  –  5:40 pm} & \multicolumn{1}{l|}{\cellcolor[HTML]{FFFFFF}5 minutes}              & \multicolumn{1}{l|}{\cellcolor[HTML]{FFFFFF}Concluding Remarks}                                                                                                                                                & DI-CPS Chairs                                                                                                                                                                                                        \\ \hline
-\end{tabular}
-\end{table}
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l38m{background-color:#FFF;border-color:inherit;text-align:right;vertical-align:top}
+.tg .tg-rp7u{background-color:#4DD0E1;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-jxgv{background-color:#FFF;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0xrc{background-color:#E0F7FA;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-rvuo{border-color:inherit;color:#434343;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-z115{background-color:#cbcefb;border-color:inherit;text-align:right;vertical-align:top}
+.tg .tg-61xu{background-color:#cbcefb;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-vppv{background-color:#E0F7FA;border-color:inherit;text-align:right;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-rvuo" colspan="5"><span style="color:#434343">DI CPS 2023 Schedule</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-rp7u">Sequence</td>
+    <td class="tg-rp7u">Time</td>
+    <td class="tg-rp7u">Time Duration</td>
+    <td class="tg-rp7u">Title</td>
+    <td class="tg-rp7u">Authors</td>
+  </tr>
+  <tr>
+    <td class="tg-z115">0</td>
+    <td class="tg-61xu">12 pm – 1:30 pm</td>
+    <td class="tg-61xu">30 minutes</td>
+    <td class="tg-61xu">Lunch Break</td>
+    <td class="tg-61xu"></td>
+  </tr>
+  <tr>
+    <td class="tg-vppv"><span style="background-color:#E0F7FA">1</span></td>
+    <td class="tg-0xrc"><span style="background-color:#E0F7FA">1:30 pm&nbsp;&nbsp;– 1:45 pm</span></td>
+    <td class="tg-0xrc"><span style="background-color:#E0F7FA">15 minutes</span></td>
+    <td class="tg-0xrc"><span style="background-color:#E0F7FA">Opening Remark</span></td>
+    <td class="tg-0xrc"><span style="background-color:#E0F7FA">DI-CPS Chairs</span></td>
+  </tr>
+  <tr>
+    <td class="tg-l38m"><span style="background-color:#FFF">2</span></td>
+    <td class="tg-jxgv"><span style="background-color:#FFF">1:45 pm&nbsp;&nbsp;–&nbsp;&nbsp;2:30 pm</span></td>
+    <td class="tg-jxgv"><span style="background-color:#FFF">45 minutes</span></td>
+    <td class="tg-jxgv"><span style="background-color:#FFF">Keynote</span></td>
+    <td class="tg-jxgv"><span style="background-color:#FFF">TBD</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vppv"><span style="background-color:#E0F7FA">3</span></td>
+    <td class="tg-0xrc"><span style="background-color:#E0F7FA">2:40 pm&nbsp;&nbsp;– 3:00 pm</span></td>
+    <td class="tg-0xrc"><span style="background-color:#E0F7FA">20 minutes</span></td>
+    <td class="tg-0xrc"><span style="background-color:#E0F7FA">Physics-informed Machine Learning </span><br><span style="background-color:#E0F7FA">Model Generalization in AIoT: Opportunites and Challenges	</span></td>
+    <td class="tg-0xrc"><span style="background-color:#E0F7FA">Wenjie Luo and Rui Tan</span></td>
+  </tr>
+  <tr>
+    <td class="tg-z115">4</td>
+    <td class="tg-61xu">3:00 pm – 3:20pm</td>
+    <td class="tg-61xu">20 minutes</td>
+    <td class="tg-61xu">Break</td>
+    <td class="tg-61xu"></td>
+  </tr>
+  <tr>
+    <td class="tg-vppv"><span style="background-color:#E0F7FA">5</span></td>
+    <td class="tg-0xrc"><span style="background-color:#E0F7FA">3:20 pm&nbsp;&nbsp;– 3:40 pm</span></td>
+    <td class="tg-0xrc"><span style="background-color:#E0F7FA">20 minutes</span></td>
+    <td class="tg-0xrc"><span style="background-color:#E0F7FA">Dynamic Simplex: Balancing Safety and </span><br><span style="background-color:#E0F7FA">Performance in Autonomous Cyber Physical Systems	</span></td>
+    <td class="tg-0xrc"><span style="background-color:#E0F7FA">Baiting Luo, Shreyas Ramakrishna, Ava Pettet, </span><br><span style="background-color:#E0F7FA">Christopher Kuhn, Gabor Karsai and Ayan Mukhopadhyay	</span></td>
+  </tr>
+  <tr>
+    <td class="tg-l38m"><span style="background-color:#FFF">6</span></td>
+    <td class="tg-jxgv"><span style="background-color:#FFF">3:40 pm – 4:00 pm</span></td>
+    <td class="tg-jxgv"><span style="background-color:#FFF">20 minutes</span></td>
+    <td class="tg-jxgv"><span style="background-color:#FFF">Assessing the Impact of Disruptive Events </span><br><span style="background-color:#FFF">on Urban Mobility: A Case Study of Chicago Taxis during COVID-19	</span></td>
+    <td class="tg-jxgv"><span style="background-color:#FFF">Tianyi Li, Xiatian Iogansen and Raphael Stern</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vppv"><span style="background-color:#E0F7FA">7</span></td>
+    <td class="tg-0xrc"><span style="background-color:#E0F7FA">4:00 pm&nbsp;&nbsp;– 4:20 pm</span></td>
+    <td class="tg-0xrc"><span style="background-color:#E0F7FA">20 minutes</span></td>
+    <td class="tg-0xrc"><span style="background-color:#E0F7FA">Intelligent Distributed Charging Control for Large </span><br><span style="background-color:#E0F7FA">Scale Electric Vehicles: A Multi-Cluster Mean Field Game Approach</span></td>
+    <td class="tg-0xrc"><span style="background-color:#E0F7FA">Shawon Dey and Hao Xu</span></td>
+  </tr>
+  <tr>
+    <td class="tg-61xu"></td>
+    <td class="tg-61xu">4:20 pm - 4: 35 pm </td>
+    <td class="tg-61xu">15 minutes</td>
+    <td class="tg-61xu">Break</td>
+    <td class="tg-61xu"></td>
+  </tr>
+  <tr>
+    <td class="tg-vppv"><span style="background-color:#E0F7FA">8</span></td>
+    <td class="tg-0xrc"><span style="background-color:#E0F7FA">4:35 pm&nbsp;&nbsp;– 4:55 pm</span></td>
+    <td class="tg-0xrc"><span style="background-color:#E0F7FA">20 minutes</span></td>
+    <td class="tg-0xrc"><span style="background-color:#E0F7FA">Visualization of Large-Scale Trajectory Datasets</span></td>
+    <td class="tg-0xrc"><span style="background-color:#E0F7FA">Gergely Zachar</span></td>
+  </tr>
+  <tr>
+    <td class="tg-l38m"><span style="background-color:#FFF">9</span></td>
+    <td class="tg-jxgv"><span style="background-color:#FFF">4:55 pm&nbsp;&nbsp;–&nbsp;&nbsp;5:15 pm</span></td>
+    <td class="tg-jxgv"><span style="background-color:#FFF">20 minutes</span></td>
+    <td class="tg-jxgv"><span style="background-color:#FFF">Analysis of a Runtime Data Sharing </span><br><span style="background-color:#FFF">Architecture over LTE for a Heterogeneous CAV Fleet	</span></td>
+    <td class="tg-jxgv"><span style="background-color:#FFF">Alex Richardson, Matthew Nice, Matthew Bunting, </span><br><span style="background-color:#FFF">Jonathan Lee, Rahul Bhadani, Dan Work and Jonathan Sprinkle</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vppv"><span style="background-color:#E0F7FA">10</span></td>
+    <td class="tg-0xrc"><span style="background-color:#E0F7FA">5:15 pm&nbsp;&nbsp;–&nbsp;&nbsp;5:35 pm</span></td>
+    <td class="tg-0xrc"><span style="background-color:#E0F7FA">20 minutes</span></td>
+    <td class="tg-0xrc"><span style="background-color:#E0F7FA">Approaches for Synthesis and Deployment of </span><br><span style="background-color:#E0F7FA">Controller Models on Automated Vehicles for Car-following in Mixed Autonomy</span></td>
+    <td class="tg-0xrc"><span style="background-color:#E0F7FA">Rahul Bhadani, Matt Bunting, Matthew Nice, Fangyu Wu, </span><br><span style="background-color:#E0F7FA">Amaury Hayat, Jonathan Lee, Alexandre Bayen, Benedetto Piccoli, </span><br><span style="background-color:#E0F7FA">Benjamin Seibold, Dan Work and Jonathan Sprinkle</span></td>
+  </tr>
+  <tr>
+    <td class="tg-l38m"><span style="background-color:#FFF">11</span></td>
+    <td class="tg-jxgv"><span style="background-color:#FFF">5:35 pm&nbsp;&nbsp;–&nbsp;&nbsp;5:40 pm</span></td>
+    <td class="tg-jxgv"><span style="background-color:#FFF">5 minutes</span></td>
+    <td class="tg-jxgv"><span style="background-color:#FFF">Concluding Remarks</span></td>
+    <td class="tg-jxgv"><span style="background-color:#FFF">DI-CPS Chairs</span></td>
+  </tr>
+</tbody>
+</table>
 
 
 background: |
