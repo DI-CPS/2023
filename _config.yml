@@ -37,11 +37,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 schedule: |
 
+  <center>
   <style type="text/css">
   .tg  {border-collapse:collapse;border-spacing:0;}
-  .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
     overflow:hidden;padding:10px 5px;word-break:normal;}
-  .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
     font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
   .tg .tg-l38m{background-color:#4f0000;border-color:inherit;text-align:right;vertical-align:top}
   .tg .tg-rp7u{background-color:#4DD0E1;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
@@ -54,11 +55,6 @@ schedule: |
   .tg .tg-vppv{background-color:#01092b;border-color:inherit;text-align:right;vertical-align:top}
   </style>
   <table class="tg">
-  <thead>
-    <tr>
-      <th class="tg-rvuo" colspan="5"><span style="color:#434343">DI CPS 2023 Schedule</span></th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td class="tg-0pky"></td>
@@ -167,6 +163,7 @@ schedule: |
     </tr>
   </tbody>
   </table>
+  </center>
 
 
 background: |
