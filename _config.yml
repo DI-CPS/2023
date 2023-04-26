@@ -50,8 +50,8 @@ schedule: |
   .tg .tg-jxgv{background-color:#4f0000;border-color:inherit;text-align:left;vertical-align:top}
   .tg .tg-0xrc{background-color:#01092b;border-color:inherit;text-align:left;vertical-align:top}
   .tg .tg-kcjr{background-color:#4DD0E1;border-color:inherit;text-align:left;vertical-align:top;font-weight:bold}
-  .tg .tg-zbgd{background-color:#FBBC04;border-color:inherit;text-align:right;vertical-align:top}
-  .tg .tg-el1q{background-color:#FBBC04;border-color:inherit;text-align:left;vertical-align:top}
+  .tg .tg-zbgd{background-color:#cbcefb;border-color:inherit;text-align:right;vertical-align:top}
+  .tg .tg-el1q{background-color:#cbcefb;border-color:inherit;text-align:left;vertical-align:top}
   .tg .tg-r2g7{background-color:#01092b;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
   .tg .tg-vppv{background-color:#01092b;border-color:inherit;text-align:right;vertical-align:top}
   .tg .tg-s1w1{background-color:#F90;border-color:inherit;text-align:right;vertical-align:top}
@@ -70,10 +70,10 @@ schedule: |
   </thead>
   <tbody>
     <tr>
-      <td class="tg-zbgd"><span style="background-color:#FBBC04">0</span></td>
-      <td class="tg-el1q"><span style="background-color:#FBBC04">10am – 10:30am</span></td>
-      <td class="tg-el1q"><span style="background-color:#FBBC04">30 minutes</span></td>
-      <td class="tg-el1q"><span style="background-color:#FBBC04">Coffee Break</span></td>
+      <td class="tg-zbgd"><span style="background-color:#cbcefb">0</span></td>
+      <td class="tg-el1q"><span style="background-color:#cbcefb">10am – 10:30am</span></td>
+      <td class="tg-el1q"><span style="background-color:#cbcefb">30 minutes</span></td>
+      <td class="tg-el1q"><span style="background-color:#cbcefb">Coffee Break</span></td>
       <td class="tg-el1q"></td>
     </tr>
     <tr>
@@ -112,10 +112,10 @@ schedule: |
       <td class="tg-0xrc"><span style="background-color:#01092b">Shawon Dey and Hao Xu</span></td>
     </tr>
     <tr>
-      <td class="tg-zbgd"><span style="background-color:#FBBC04">5</span></td>
-      <td class="tg-el1q"><span style="background-color:#FBBC04">12pm – 1:30pm</span></td>
-      <td class="tg-el1q"><span style="background-color:#FBBC04">90 minutes</span></td>
-      <td class="tg-el1q"><span style="background-color:#FBBC04">Lunch</span></td>
+      <td class="tg-zbgd"><span style="background-color:#cbcefb">5</span></td>
+      <td class="tg-el1q"><span style="background-color:#cbcefb">12pm – 1:30pm</span></td>
+      <td class="tg-el1q"><span style="background-color:#cbcefb">90 minutes</span></td>
+      <td class="tg-el1q"><span style="background-color:#cbcefb">Lunch</span></td>
       <td class="tg-el1q"></td>
     </tr>
     <tr>
@@ -147,10 +147,10 @@ schedule: |
       <td class="tg-jxgv"><span style="background-color:#4f0000">Gergely Zachar</span></td>
     </tr>
     <tr>
-      <td class="tg-s1w1"><span style="background-color:#F90">9</span></td>
-      <td class="tg-gnra"><span style="background-color:#F90">3pm – 3:30pm</span></td>
-      <td class="tg-el1q"><span style="background-color:#FBBC04">30 minutes</span></td>
-      <td class="tg-el1q"><span style="background-color:#FBBC04">Coffee Break</span></td>
+      <td class="tg-s1w1"><span style="background-color:#cbcefb">9</span></td>
+      <td class="tg-gnra"><span style="background-color:#cbcefb">3pm – 3:30pm</span></td>
+      <td class="tg-el1q"><span style="background-color:#cbcefb">30 minutes</span></td>
+      <td class="tg-el1q"><span style="background-color:#cbcefb">Coffee Break</span></td>
       <td class="tg-gnra"></td>
     </tr>
     <tr>
