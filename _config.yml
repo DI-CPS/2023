@@ -38,121 +38,148 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 schedule: |
 
   <center>
-  <style type="text/css">
+    <style type="text/css">
   .tg  {border-collapse:collapse;border-spacing:0;}
-  .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
+  .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
     overflow:hidden;padding:10px 5px;word-break:normal;}
-  .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
+  .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
     font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-  .tg .tg-l38m{background-color:#4f0000;border-color:inherit;text-align:right;vertical-align:top}
-  .tg .tg-rp7u{background-color:#4DD0E1;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-  .tg .tg-jxgv{background-color:#4f0000;border-color:inherit;text-align:left;vertical-align:top}
+  .tg .tg-l38m{background-color:#FFF;border-color:inherit;text-align:right;vertical-align:top}
+  .tg .tg-szek{background-color:#01092b;border-color:inherit;font-weight:bold;text-align:right;vertical-align:top}
+  .tg .tg-gnra{background-color:#F90;border-color:inherit;text-align:left;vertical-align:top}
+  .tg .tg-jxgv{background-color:#FFF;border-color:inherit;text-align:left;vertical-align:top}
   .tg .tg-0xrc{background-color:#01092b;border-color:inherit;text-align:left;vertical-align:top}
-  .tg .tg-rvuo{border-color:inherit;color:#434343;font-weight:bold;text-align:center;vertical-align:top}
-  .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-  .tg .tg-z115{background-color:#cbcefb;border-color:inherit;text-align:right;vertical-align:top}
-  .tg .tg-61xu{background-color:#cbcefb;border-color:inherit;text-align:left;vertical-align:top}
+  .tg .tg-kcjr{background-color:#4DD0E1;border-color:inherit;text-align:left;vertical-align:top}
+  .tg .tg-zbgd{background-color:#FBBC04;border-color:inherit;text-align:right;vertical-align:top}
+  .tg .tg-el1q{background-color:#FBBC04;border-color:inherit;text-align:left;vertical-align:top}
+  .tg .tg-r2g7{background-color:#01092b;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
   .tg .tg-vppv{background-color:#01092b;border-color:inherit;text-align:right;vertical-align:top}
+  .tg .tg-s1w1{background-color:#F90;border-color:inherit;text-align:right;vertical-align:top}
+  .tg .tg-u0ix{background-color:#FFF;border-color:inherit;font-weight:bold;text-align:right;vertical-align:top}
+  .tg .tg-pdeq{background-color:#FFF;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
   </style>
   <table class="tg">
+  <thead>
+    <tr>
+      <th class="tg-kcjr"><span style="background-color:#4DD0E1">Sequence</span></th>
+      <th class="tg-kcjr"><span style="background-color:#4DD0E1">Time</span></th>
+      <th class="tg-kcjr"><span style="background-color:#4DD0E1">Time Duration</span></th>
+      <th class="tg-kcjr"><span style="background-color:#4DD0E1">Title</span></th>
+      <th class="tg-kcjr"><span style="background-color:#4DD0E1">Authors</span></th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
-      <td class="tg-rp7u">Sequence</td>
-      <td class="tg-rp7u">Time</td>
-      <td class="tg-rp7u">Time Duration</td>
-      <td class="tg-rp7u">Title</td>
-      <td class="tg-rp7u">Authors</td>
+      <td class="tg-zbgd"><span style="background-color:#FBBC04">0</span></td>
+      <td class="tg-el1q"><span style="background-color:#FBBC04">10am – 10:30am</span></td>
+      <td class="tg-el1q"><span style="background-color:#FBBC04">30 minutes</span></td>
+      <td class="tg-el1q"><span style="background-color:#FBBC04">Coffee Break</span></td>
+      <td class="tg-el1q"></td>
     </tr>
     <tr>
-      <td class="tg-z115">0</td>
-      <td class="tg-61xu">12 pm – 1:30 pm</td>
-      <td class="tg-61xu">30 minutes</td>
-      <td class="tg-61xu">Lunch Break</td>
-      <td class="tg-61xu"></td>
+      <td class="tg-szek"><span style="font-weight:bold;background-color:#01092b">Session 1</span></td>
+      <td class="tg-r2g7"><span style="font-weight:bold;background-color:#01092b">Agent-based Systems</span></td>
+      <td class="tg-0xrc"></td>
+      <td class="tg-0xrc"></td>
+      <td class="tg-0xrc"></td>
     </tr>
     <tr>
-      <td class="tg-vppv"><span style="background-color:#01092b">1</span></td>
-      <td class="tg-0xrc"><span style="background-color:#01092b">1:30 pm&nbsp;&nbsp;– 1:45 pm</span></td>
-      <td class="tg-0xrc"><span style="background-color:#01092b">15 minutes</span></td>
-      <td class="tg-0xrc"><span style="background-color:#01092b">Opening Remark</span></td>
-      <td class="tg-0xrc"><span style="background-color:#01092b">DI-CPS Chairs</span></td>
+      <td class="tg-l38m"><span style="background-color:#FFF">1</span></td>
+      <td class="tg-jxgv"><span style="background-color:#FFF">10:30am – 10:45am</span></td>
+      <td class="tg-jxgv"><span style="background-color:#FFF">15 minutes</span></td>
+      <td class="tg-jxgv"><span style="background-color:#FFF">Opening Remark</span></td>
+      <td class="tg-jxgv"><span style="background-color:#FFF">DI-CPS Chairs</span></td>
     </tr>
     <tr>
-      <td class="tg-l38m"><span style="background-color:#4f0000">2</span></td>
-      <td class="tg-jxgv"><span style="background-color:#4f0000">1:45 pm&nbsp;&nbsp;–&nbsp;&nbsp;2:30 pm</span></td>
-      <td class="tg-jxgv"><span style="background-color:#4f0000">45 minutes</span></td>
-      <td class="tg-jxgv"><span style="background-color:#4f0000">Keynote</span></td>
-      <td class="tg-jxgv"><span style="background-color:#4f0000">Dr. Miroslav Pajic (Duke University)</span></td>
-    </tr>
-    <tr>
-      <td class="tg-vppv"><span style="background-color:#01092b">3</span></td>
-      <td class="tg-0xrc"><span style="background-color:#01092b">2:40 pm&nbsp;&nbsp;– 3:00 pm</span></td>
+      <td class="tg-vppv"><span style="background-color:#01092b">2</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">10:45am – 11:05am</span></td>
       <td class="tg-0xrc"><span style="background-color:#01092b">20 minutes</span></td>
-      <td class="tg-0xrc"><span style="background-color:#01092b">Physics-informed Machine Learning </span><br><span style="background-color:#01092b">Model Generalization in AIoT: Opportunites and Challenges	</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">Physics-informed Machine Learning Model</span><br><span style="background-color:#01092b">Generalization in AIoT: Opportunites and Challenges        </span></td>
       <td class="tg-0xrc"><span style="background-color:#01092b">Wenjie Luo and Rui Tan</span></td>
     </tr>
     <tr>
-      <td class="tg-z115">4</td>
-      <td class="tg-61xu">3:00 pm – 3:20pm</td>
-      <td class="tg-61xu">20 minutes</td>
-      <td class="tg-61xu">Break</td>
-      <td class="tg-61xu"></td>
+      <td class="tg-l38m"><span style="background-color:#FFF">3</span></td>
+      <td class="tg-jxgv"><span style="background-color:#FFF">11:05am – 11:25am</span></td>
+      <td class="tg-jxgv"><span style="background-color:#FFF">20 minutes</span></td>
+      <td class="tg-jxgv"><span style="background-color:#FFF">Dynamic Simplex: Balancing Safety and</span><br><span style="background-color:#FFF">Performance in Autonomous Cyber Physical Systems	</span></td>
+      <td class="tg-jxgv"><span style="background-color:#FFF">Baiting Luo, Shreyas Ramakrishna, Ava Pettet,</span><br><span style="background-color:#FFF">Christopher Kuhn, Gabor Karsai and Ayan Mukhopadhyay	</span></td>
     </tr>
     <tr>
-      <td class="tg-vppv"><span style="background-color:#01092b">5</span></td>
-      <td class="tg-0xrc"><span style="background-color:#01092b">3:20 pm&nbsp;&nbsp;– 3:40 pm</span></td>
-      <td class="tg-0xrc"><span style="background-color:#01092b">20 minutes</span></td>
-      <td class="tg-0xrc"><span style="background-color:#01092b">Dynamic Simplex: Balancing Safety and </span><br><span style="background-color:#01092b">Performance in Autonomous Cyber Physical Systems	</span></td>
-      <td class="tg-0xrc"><span style="background-color:#01092b">Baiting Luo, Shreyas Ramakrishna, Ava Pettet, </span><br><span style="background-color:#01092b">Christopher Kuhn, Gabor Karsai and Ayan Mukhopadhyay	</span></td>
-    </tr>
-    <tr>
-      <td class="tg-l38m"><span style="background-color:#4f0000">6</span></td>
-      <td class="tg-jxgv"><span style="background-color:#4f0000">3:40 pm – 4:00 pm</span></td>
-      <td class="tg-jxgv"><span style="background-color:#4f0000">20 minutes</span></td>
-      <td class="tg-jxgv"><span style="background-color:#4f0000">Assessing the Impact of Disruptive Events </span><br><span style="background-color:#4f0000">on Urban Mobility: A Case Study of Chicago Taxis during COVID-19	</span></td>
-      <td class="tg-jxgv"><span style="background-color:#4f0000">Tianyi Li, Xiatian Iogansen and Raphael Stern</span></td>
-    </tr>
-    <tr>
-      <td class="tg-vppv"><span style="background-color:#01092b">7</span></td>
-      <td class="tg-0xrc"><span style="background-color:#01092b">4:00 pm&nbsp;&nbsp;– 4:20 pm</span></td>
+      <td class="tg-vppv"><span style="background-color:#01092b">4</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">11:25am – 11:45am</span></td>
       <td class="tg-0xrc"><span style="background-color:#01092b">20 minutes</span></td>
       <td class="tg-0xrc"><span style="background-color:#01092b">Intelligent Distributed Charging Control for Large </span><br><span style="background-color:#01092b">Scale Electric Vehicles: A Multi-Cluster Mean Field Game Approach</span></td>
       <td class="tg-0xrc"><span style="background-color:#01092b">Shawon Dey and Hao Xu</span></td>
     </tr>
     <tr>
-      <td class="tg-61xu"></td>
-      <td class="tg-61xu">4:20 pm - 4: 35 pm </td>
-      <td class="tg-61xu">15 minutes</td>
-      <td class="tg-61xu">Break</td>
-      <td class="tg-61xu"></td>
+      <td class="tg-zbgd"><span style="background-color:#FBBC04">5</span></td>
+      <td class="tg-el1q"><span style="background-color:#FBBC04">12pm – 1:30pm</span></td>
+      <td class="tg-el1q"><span style="background-color:#FBBC04">90 minutes</span></td>
+      <td class="tg-el1q"><span style="background-color:#FBBC04">Lunch</span></td>
+      <td class="tg-el1q"></td>
     </tr>
     <tr>
-      <td class="tg-vppv"><span style="background-color:#01092b">8</span></td>
-      <td class="tg-0xrc"><span style="background-color:#01092b">4:35 pm&nbsp;&nbsp;– 4:55 pm</span></td>
+      <td class="tg-szek"><span style="font-weight:bold;background-color:#01092b">Session 2</span></td>
+      <td class="tg-r2g7"><span style="font-weight:bold;background-color:#01092b">Data and Case Study</span></td>
+      <td class="tg-0xrc"></td>
+      <td class="tg-0xrc"></td>
+      <td class="tg-0xrc"></td>
+    </tr>
+    <tr>
+      <td class="tg-l38m"><span style="background-color:#FFF">6</span></td>
+      <td class="tg-jxgv"><span style="background-color:#FFF">1:30 pm&nbsp;&nbsp;–&nbsp;&nbsp;2:15 pm</span></td>
+      <td class="tg-jxgv"><span style="background-color:#FFF">45 minutes</span></td>
+      <td class="tg-jxgv"><span style="background-color:#FFF">Keynote</span></td>
+      <td class="tg-jxgv"><span style="background-color:#FFF">Dr. Miroslav Pajic</span></td>
+    </tr>
+    <tr>
+      <td class="tg-vppv"><span style="background-color:#01092b">7</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">2:15pm – 2:35 pm </span></td>
       <td class="tg-0xrc"><span style="background-color:#01092b">20 minutes</span></td>
-      <td class="tg-0xrc"><span style="background-color:#01092b">Visualization of Large-Scale Trajectory Datasets</span></td>
-      <td class="tg-0xrc"><span style="background-color:#01092b">Gergely Zachar</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">Assessing the Impact of Disruptive Events on </span><br><span style="background-color:#01092b">Urban Mobility: A Case Study of Chicago Taxis during COVID-19        </span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">Tianyi Li, Xiatian Iogansen and Raphael Stern</span></td>
     </tr>
     <tr>
-      <td class="tg-l38m"><span style="background-color:#4f0000">9</span></td>
-      <td class="tg-jxgv"><span style="background-color:#4f0000">4:55 pm&nbsp;&nbsp;–&nbsp;&nbsp;5:15 pm</span></td>
-      <td class="tg-jxgv"><span style="background-color:#4f0000">20 minutes</span></td>
-      <td class="tg-jxgv"><span style="background-color:#4f0000">Analysis of a Runtime Data Sharing </span><br><span style="background-color:#4f0000">Architecture over LTE for a Heterogeneous CAV Fleet	</span></td>
-      <td class="tg-jxgv"><span style="background-color:#4f0000">Alex Richardson, Matthew Nice, Matthew Bunting, </span><br><span style="background-color:#4f0000">Jonathan Lee, Rahul Bhadani, Dan Work and Jonathan Sprinkle</span></td>
+      <td class="tg-l38m"><span style="background-color:#FFF">8</span></td>
+      <td class="tg-jxgv"><span style="background-color:#FFF">2:35pm – 2:55 pm</span></td>
+      <td class="tg-jxgv"><span style="background-color:#FFF">20 minutes</span></td>
+      <td class="tg-jxgv"><span style="background-color:#FFF">Visualization of Large-Scale Trajectory Datasets</span></td>
+      <td class="tg-jxgv"><span style="background-color:#FFF">Gergely Zachar</span></td>
+    </tr>
+    <tr>
+      <td class="tg-s1w1"><span style="background-color:#F90">9</span></td>
+      <td class="tg-gnra"><span style="background-color:#F90">3pm – 3:30pm</span></td>
+      <td class="tg-el1q"><span style="background-color:#FBBC04">30 minutes</span></td>
+      <td class="tg-el1q"><span style="background-color:#FBBC04">Coffee Break</span></td>
+      <td class="tg-gnra"></td>
+    </tr>
+    <tr>
+      <td class="tg-u0ix"><span style="font-weight:bold;background-color:#FFF">Session 3</span></td>
+      <td class="tg-pdeq"><span style="font-weight:bold;background-color:#FFF">System Design &amp; Deployment</span></td>
+      <td class="tg-jxgv"></td>
+      <td class="tg-jxgv"></td>
+      <td class="tg-jxgv"></td>
     </tr>
     <tr>
       <td class="tg-vppv"><span style="background-color:#01092b">10</span></td>
-      <td class="tg-0xrc"><span style="background-color:#01092b">5:15 pm&nbsp;&nbsp;–&nbsp;&nbsp;5:35 pm</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">3:30pm – 3:50pm</span></td>
       <td class="tg-0xrc"><span style="background-color:#01092b">20 minutes</span></td>
-      <td class="tg-0xrc"><span style="background-color:#01092b">Approaches for Synthesis and Deployment of </span><br><span style="background-color:#01092b">Controller Models on Automated Vehicles for Car-following in Mixed Autonomy</span></td>
-      <td class="tg-0xrc"><span style="background-color:#01092b">Rahul Bhadani, Matt Bunting, Matthew Nice, Fangyu Wu, </span><br><span style="background-color:#01092b">Amaury Hayat, Jonathan Lee, Alexandre Bayen, Benedetto Piccoli, </span><br><span style="background-color:#01092b">Benjamin Seibold, Dan Work and Jonathan Sprinkle</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">Analysis of a Runtime Data Sharing Architecture</span><br><span style="background-color:#01092b">over LTE for a Heterogeneous CAV Fleet	</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">Alex Richardson, Matthew Nice, Matthew Bunting, </span><br><span style="background-color:#01092b">Jonathan Lee, Rahul Bhadani, Dan Work and Jonathan Sprinkle</span></td>
     </tr>
     <tr>
-      <td class="tg-l38m"><span style="background-color:#4f0000">11</span></td>
-      <td class="tg-jxgv"><span style="background-color:#4f0000">5:35 pm&nbsp;&nbsp;–&nbsp;&nbsp;5:40 pm</span></td>
-      <td class="tg-jxgv"><span style="background-color:#4f0000">5 minutes</span></td>
-      <td class="tg-jxgv"><span style="background-color:#4f0000">Concluding Remarks</span></td>
-      <td class="tg-jxgv"><span style="background-color:#4f0000">DI-CPS Chairs</span></td>
+      <td class="tg-l38m"><span style="background-color:#FFF">11</span></td>
+      <td class="tg-jxgv"><span style="background-color:#FFF">3:50pm – 4:10pm</span></td>
+      <td class="tg-jxgv"><span style="background-color:#FFF">20 minutes</span></td>
+      <td class="tg-jxgv"><span style="background-color:#FFF">Approaches for Synthesis and Deployment of Controller</span><br><span style="background-color:#FFF">Models on Automated Vehicles for Car-following in Mixed Autonomy</span></td>
+      <td class="tg-jxgv"><span style="background-color:#FFF">Rahul Bhadani, Matt Bunting, Matthew Nice, Fangyu Wu, </span><br><span style="background-color:#FFF">Amaury Hayat, Jonathan Lee, Alexandre Bayen, Benedetto Piccoli,</span><br><span style="background-color:#FFF">Benjamin Seibold, Dan Work and Jonathan Sprinkle</span></td>
+    </tr>
+    <tr>
+      <td class="tg-vppv"><span style="background-color:#01092b">12</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">4:10pm – 4:25pm</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">15 minutes </span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">Closing Remarks</span></td>
+      <td class="tg-0xrc"><span style="background-color:#01092b">DI-CPS Chairs</span></td>
     </tr>
   </tbody>
   </table>
