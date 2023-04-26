@@ -44,19 +44,19 @@ schedule: |
     overflow:hidden;padding:10px 5px;word-break:normal;}
   .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
     font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-  .tg .tg-l38m{background-color:#FFF;border-color:inherit;text-align:right;vertical-align:top}
+  .tg .tg-l38m{background-color:#4f0000;border-color:inherit;text-align:right;vertical-align:top}
   .tg .tg-szek{background-color:#01092b;border-color:inherit;font-weight:bold;text-align:right;vertical-align:top}
   .tg .tg-gnra{background-color:#F90;border-color:inherit;text-align:left;vertical-align:top}
-  .tg .tg-jxgv{background-color:#FFF;border-color:inherit;text-align:left;vertical-align:top}
+  .tg .tg-jxgv{background-color:#4f0000;border-color:inherit;text-align:left;vertical-align:top}
   .tg .tg-0xrc{background-color:#01092b;border-color:inherit;text-align:left;vertical-align:top}
-  .tg .tg-kcjr{background-color:#4DD0E1;border-color:inherit;text-align:left;vertical-align:top}
+  .tg .tg-kcjr{background-color:#4DD0E1;border-color:inherit;text-align:left;vertical-align:top;font-weight:bold}
   .tg .tg-zbgd{background-color:#FBBC04;border-color:inherit;text-align:right;vertical-align:top}
   .tg .tg-el1q{background-color:#FBBC04;border-color:inherit;text-align:left;vertical-align:top}
   .tg .tg-r2g7{background-color:#01092b;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
   .tg .tg-vppv{background-color:#01092b;border-color:inherit;text-align:right;vertical-align:top}
   .tg .tg-s1w1{background-color:#F90;border-color:inherit;text-align:right;vertical-align:top}
-  .tg .tg-u0ix{background-color:#FFF;border-color:inherit;font-weight:bold;text-align:right;vertical-align:top}
-  .tg .tg-pdeq{background-color:#FFF;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+  .tg .tg-u0ix{background-color:#4f0000;border-color:inherit;font-weight:bold;text-align:right;vertical-align:top}
+  .tg .tg-pdeq{background-color:#4f0000;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
   </style>
   <table class="tg">
   <thead>
@@ -84,11 +84,11 @@ schedule: |
       <td class="tg-0xrc"></td>
     </tr>
     <tr>
-      <td class="tg-l38m"><span style="background-color:#FFF">1</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">10:30am – 10:45am</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">15 minutes</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">Opening Remark</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">DI-CPS Chairs</span></td>
+      <td class="tg-l38m"><span style="background-color:#4f0000">1</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">10:30am – 10:45am</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">15 minutes</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">Opening Remark</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">DI-CPS Chairs</span></td>
     </tr>
     <tr>
       <td class="tg-vppv"><span style="background-color:#01092b">2</span></td>
@@ -98,11 +98,11 @@ schedule: |
       <td class="tg-0xrc"><span style="background-color:#01092b">Wenjie Luo and Rui Tan</span></td>
     </tr>
     <tr>
-      <td class="tg-l38m"><span style="background-color:#FFF">3</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">11:05am – 11:25am</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">20 minutes</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">Dynamic Simplex: Balancing Safety and</span><br><span style="background-color:#FFF">Performance in Autonomous Cyber Physical Systems	</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">Baiting Luo, Shreyas Ramakrishna, Ava Pettet,</span><br><span style="background-color:#FFF">Christopher Kuhn, Gabor Karsai and Ayan Mukhopadhyay	</span></td>
+      <td class="tg-l38m"><span style="background-color:#4f0000">3</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">11:05am – 11:25am</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">20 minutes</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">Dynamic Simplex: Balancing Safety and</span><br><span style="background-color:#4f0000">Performance in Autonomous Cyber Physical Systems	</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">Baiting Luo, Shreyas Ramakrishna, Ava Pettet,</span><br><span style="background-color:#4f0000">Christopher Kuhn, Gabor Karsai and Ayan Mukhopadhyay	</span></td>
     </tr>
     <tr>
       <td class="tg-vppv"><span style="background-color:#01092b">4</span></td>
@@ -126,11 +126,11 @@ schedule: |
       <td class="tg-0xrc"></td>
     </tr>
     <tr>
-      <td class="tg-l38m"><span style="background-color:#FFF">6</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">1:30 pm&nbsp;&nbsp;–&nbsp;&nbsp;2:15 pm</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">45 minutes</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">Keynote</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">Dr. Miroslav Pajic</span></td>
+      <td class="tg-l38m"><span style="background-color:#4f0000">6</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">1:30 pm&nbsp;&nbsp;–&nbsp;&nbsp;2:15 pm</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">45 minutes</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">Keynote</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">Dr. Miroslav Pajic</span></td>
     </tr>
     <tr>
       <td class="tg-vppv"><span style="background-color:#01092b">7</span></td>
@@ -140,11 +140,11 @@ schedule: |
       <td class="tg-0xrc"><span style="background-color:#01092b">Tianyi Li, Xiatian Iogansen and Raphael Stern</span></td>
     </tr>
     <tr>
-      <td class="tg-l38m"><span style="background-color:#FFF">8</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">2:35pm – 2:55 pm</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">20 minutes</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">Visualization of Large-Scale Trajectory Datasets</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">Gergely Zachar</span></td>
+      <td class="tg-l38m"><span style="background-color:#4f0000">8</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">2:35pm – 2:55 pm</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">20 minutes</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">Visualization of Large-Scale Trajectory Datasets</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">Gergely Zachar</span></td>
     </tr>
     <tr>
       <td class="tg-s1w1"><span style="background-color:#F90">9</span></td>
@@ -154,8 +154,8 @@ schedule: |
       <td class="tg-gnra"></td>
     </tr>
     <tr>
-      <td class="tg-u0ix"><span style="font-weight:bold;background-color:#FFF">Session 3</span></td>
-      <td class="tg-pdeq"><span style="font-weight:bold;background-color:#FFF">System Design &amp; Deployment</span></td>
+      <td class="tg-u0ix"><span style="font-weight:bold;background-color:#4f0000">Session 3</span></td>
+      <td class="tg-pdeq"><span style="font-weight:bold;background-color:#4f0000">System Design &amp; Deployment</span></td>
       <td class="tg-jxgv"></td>
       <td class="tg-jxgv"></td>
       <td class="tg-jxgv"></td>
@@ -168,11 +168,11 @@ schedule: |
       <td class="tg-0xrc"><span style="background-color:#01092b">Alex Richardson, Matthew Nice, Matthew Bunting, </span><br><span style="background-color:#01092b">Jonathan Lee, Rahul Bhadani, Dan Work and Jonathan Sprinkle</span></td>
     </tr>
     <tr>
-      <td class="tg-l38m"><span style="background-color:#FFF">11</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">3:50pm – 4:10pm</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">20 minutes</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">Approaches for Synthesis and Deployment of Controller</span><br><span style="background-color:#FFF">Models on Automated Vehicles for Car-following in Mixed Autonomy</span></td>
-      <td class="tg-jxgv"><span style="background-color:#FFF">Rahul Bhadani, Matt Bunting, Matthew Nice, Fangyu Wu, </span><br><span style="background-color:#FFF">Amaury Hayat, Jonathan Lee, Alexandre Bayen, Benedetto Piccoli,</span><br><span style="background-color:#FFF">Benjamin Seibold, Dan Work and Jonathan Sprinkle</span></td>
+      <td class="tg-l38m"><span style="background-color:#4f0000">11</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">3:50pm – 4:10pm</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">20 minutes</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">Approaches for Synthesis and Deployment of Controller</span><br><span style="background-color:#4f0000">Models on Automated Vehicles for Car-following in Mixed Autonomy</span></td>
+      <td class="tg-jxgv"><span style="background-color:#4f0000">Rahul Bhadani, Matt Bunting, Matthew Nice, Fangyu Wu, </span><br><span style="background-color:#4f0000">Amaury Hayat, Jonathan Lee, Alexandre Bayen, Benedetto Piccoli,</span><br><span style="background-color:#4f0000">Benjamin Seibold, Dan Work and Jonathan Sprinkle</span></td>
     </tr>
     <tr>
       <td class="tg-vppv"><span style="background-color:#01092b">12</span></td>
